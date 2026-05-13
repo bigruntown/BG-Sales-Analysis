@@ -49,10 +49,7 @@ A retail chain dataset (`Names` table) capturing:
 
 ## Screenshots
 
-> Replace these with actual PNG screenshots once you've taken them in Power BI Desktop.
-
-![Chain performance overview](screenshots/chain-overview.png)
-![Shop ranking table](screenshots/shop-ranking.png)
+![image alt](https://github.com/bigruntown/BG-Sales-Analysis/blob/main/Screenshot.jpg?raw=true)
 
 ## How to view this project
 
